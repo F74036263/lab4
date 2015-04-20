@@ -1,0 +1,25 @@
+# lab4
+QuestionA:
+          00000000004004b4 T _Z7averagePdRd
+          because:
+                  double average(double * n1, double & n2)
+                  
+          00000000004004e2 T _Z7averageif
+          because:
+                  int average(int n1, float n2)
+                  
+          000000000040050a T main
+          because:
+                  int main()
+                  
+QuestionB:
+
+        1 8
+        4 8
+        4 8
+        8 8
+  
+different type of variables have different sizes,
+but pointer is always the same size no mateer which type it is
+
+          
